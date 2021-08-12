@@ -303,12 +303,14 @@ ul {
 
 #partners {
   background: #3f444f;
+  color: #fff;
 }
 
 .partners {
   width: 125px;
   height: 40px;
   margin: 20px;
+  color: #fff;
 }
 
 .logo-container {
@@ -503,6 +505,7 @@ ul {
 @media only screen and (min-width: 768px) {
   main {
     height: auto;
+    color: #fff;
   }
 
   #burger-container {
@@ -657,6 +660,8 @@ ul {
   .black-container i,
   .black-container a {
     margin-right: 15px;
+    color: #fff;
+    text-decoration: none;
   }
 
   .about-desc {
