@@ -325,6 +325,8 @@ ul {
   display: flex;
   flex-flow: row;
   justify-content: space-around;
+  background-color: #fff;
+  color: black;
 }
 
 .footer-logo {
@@ -694,5 +696,10 @@ ul {
   .moving-out {
     transform: translateY(-2000px);
     opacity: 0;
+  }
+
+  .footer-container {
+    background-color: #333;
+    color: #fff;
   }
 }

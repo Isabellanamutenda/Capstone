@@ -10,7 +10,7 @@
 - Javascript
 
 ### Live demo
-you can get the live demo here
+you can get the live demo here https://isabellanamutenda.github.io/Capstone/
 
 ## Getting Started
 
@@ -39,7 +39,8 @@ you can also clone the work to your machine using git clone
 ### Run tests
 -This is just to make sure that all the work is running perfectly and with no errors.
 
-
+## Credits
+I give credit to the the owner of the original design by Cindy Shin on Behance https://www.behance.net/adagio07
 
 ## Authors
 
