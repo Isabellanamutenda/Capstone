@@ -9,7 +9,7 @@
 - CSS
 - Javascript
 
-### Setup
+### Live demo
 you can get the live demo here
 
 ## Getting Started
