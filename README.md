@@ -42,6 +42,10 @@ you can also clone the work to your machine using git clone
 ## Credits
 I give credit to the the owner of the original design by Cindy Shin on Behance https://www.behance.net/adagio07
 
+### Loom video
+Here is the link to my loom video
+https://www.loom.com/share/148f02f0d8564eaeb2813bcdf207952b
+
 ## Authors
 
 👤 **Isabella Namutenda**
